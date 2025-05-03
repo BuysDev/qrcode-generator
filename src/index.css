@@ -1,0 +1,14 @@
+.input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding: 10px;
+}
+
+.button {
+    font-weight: bold;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 10px;
+    cursor: pointer;
+    background-color: transparent;
+}
